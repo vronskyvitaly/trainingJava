@@ -1,3 +1,31 @@
-h1 {
-    color: aquamarine;
+.header {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(23, 24, 24);
+}
+
+.header h1{
+    color: rgb(239, 234, 234);
+    margin-top: 350px;
+    margin-left: 40px;
+    font-size: 60px;
+}
+
+.taitll_h2 h2{
+    color: rgb(236, 229, 229);
+    margin-left: 40px;
+    
+}
+
+.taitll_h2 input{
+    margin-top: 30px;
+    color: rgb(246, 247, 239);
+    background-color: rgb(55, 196, 69);
+    width: 150px;
+    height: 40px;
+    margin-left: 40px;
+    border: none;
+    border-radius: 10%;
+    
 }
